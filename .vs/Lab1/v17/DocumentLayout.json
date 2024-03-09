@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\genec\\source\\repos\\Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BE8FB1-64D9-492B-99DB-259FCC408D53}|Lab1\\Lab1.csproj|c:\\users\\genec\\source\\repos\\lab1\\lab1\\encapsulamiento\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BE8FB1-64D9-492B-99DB-259FCC408D53}|Lab1\\Lab1.csproj|solutionrelative:lab1\\encapsulamiento\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BE8FB1-64D9-492B-99DB-259FCC408D53}|Lab1\\Lab1.csproj|c:\\users\\genec\\source\\repos\\lab1\\lab1\\abstraccion\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BE8FB1-64D9-492B-99DB-259FCC408D53}|Lab1\\Lab1.csproj|solutionrelative:lab1\\abstraccion\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BE8FB1-64D9-492B-99DB-259FCC408D53}|Lab1\\Lab1.csproj|c:\\users\\genec\\source\\repos\\lab1\\lab1\\encapsulamiento\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BE8FB1-64D9-492B-99DB-259FCC408D53}|Lab1\\Lab1.csproj|solutionrelative:lab1\\encapsulamiento\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BE8FB1-64D9-492B-99DB-259FCC408D53}|Lab1\\Lab1.csproj|c:\\users\\genec\\source\\repos\\lab1\\lab1\\encapsulamiento\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BE8FB1-64D9-492B-99DB-259FCC408D53}|Lab1\\Lab1.csproj|solutionrelative:lab1\\encapsulamiento\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BE8FB1-64D9-492B-99DB-259FCC408D53}|Lab1\\Lab1.csproj|c:\\users\\genec\\source\\repos\\lab1\\lab1\\abstraccion\\iauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BE8FB1-64D9-492B-99DB-259FCC408D53}|Lab1\\Lab1.csproj|solutionrelative:lab1\\abstraccion\\iauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BE8FB1-64D9-492B-99DB-259FCC408D53}|Lab1\\Lab1.csproj|c:\\users\\genec\\source\\repos\\lab1\\lab1\\polimorfismo\\ifigura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BE8FB1-64D9-492B-99DB-259FCC408D53}|Lab1\\Lab1.csproj|solutionrelative:lab1\\polimorfismo\\ifigura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BE8FB1-64D9-492B-99DB-259FCC408D53}|Lab1\\Lab1.csproj|c:\\users\\genec\\source\\repos\\lab1\\lab1\\herencia\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BE8FB1-64D9-492B-99DB-259FCC408D53}|Lab1\\Lab1.csproj|solutionrelative:lab1\\herencia\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BE8FB1-64D9-492B-99DB-259FCC408D53}|Lab1\\Lab1.csproj|c:\\users\\genec\\source\\repos\\lab1\\lab1\\herencia\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BE8FB1-64D9-492B-99DB-259FCC408D53}|Lab1\\Lab1.csproj|solutionrelative:lab1\\herencia\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BE8FB1-64D9-492B-99DB-259FCC408D53}|Lab1\\Lab1.csproj|c:\\users\\genec\\source\\repos\\lab1\\lab1\\polimorfismo\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BE8FB1-64D9-492B-99DB-259FCC408D53}|Lab1\\Lab1.csproj|solutionrelative:lab1\\polimorfismo\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BE8FB1-64D9-492B-99DB-259FCC408D53}|Lab1\\Lab1.csproj|c:\\users\\genec\\source\\repos\\lab1\\lab1\\polimorfismo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BE8FB1-64D9-492B-99DB-259FCC408D53}|Lab1\\Lab1.csproj|solutionrelative:lab1\\polimorfismo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BE8FB1-64D9-492B-99DB-259FCC408D53}|Lab1\\Lab1.csproj|c:\\users\\genec\\source\\repos\\lab1\\lab1\\polimorfismo\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BE8FB1-64D9-492B-99DB-259FCC408D53}|Lab1\\Lab1.csproj|solutionrelative:lab1\\polimorfismo\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BE8FB1-64D9-492B-99DB-259FCC408D53}|Lab1\\Lab1.csproj|c:\\users\\genec\\source\\repos\\lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BE8FB1-64D9-492B-99DB-259FCC408D53}|Lab1\\Lab1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuto.cs",
+              "DocumentMoniker": "C:\\Users\\genec\\source\\repos\\Lab1\\Lab1\\Abstraccion\\IAuto.cs",
+              "RelativeDocumentMoniker": "Lab1\\Abstraccion\\IAuto.cs",
+              "ToolTip": "C:\\Users\\genec\\source\\repos\\Lab1\\Lab1\\Abstraccion\\IAuto.cs",
+              "RelativeToolTip": "Lab1\\Abstraccion\\IAuto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:18:43.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\genec\\source\\repos\\Lab1\\Lab1\\Abstraccion\\Auto.cs",
+              "RelativeDocumentMoniker": "Lab1\\Abstraccion\\Auto.cs",
+              "ToolTip": "C:\\Users\\genec\\source\\repos\\Lab1\\Lab1\\Abstraccion\\Auto.cs",
+              "RelativeToolTip": "Lab1\\Abstraccion\\Auto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:18:28.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\genec\\source\\repos\\Lab1\\Lab1\\Encapsulamiento\\Cliente.cs",
+              "RelativeDocumentMoniker": "Lab1\\Encapsulamiento\\Cliente.cs",
+              "ToolTip": "C:\\Users\\genec\\source\\repos\\Lab1\\Lab1\\Encapsulamiento\\Cliente.cs",
+              "RelativeToolTip": "Lab1\\Encapsulamiento\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:02:00.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\genec\\source\\repos\\Lab1\\Lab1\\Encapsulamiento\\Empleado.cs",
+              "RelativeDocumentMoniker": "Lab1\\Encapsulamiento\\Empleado.cs",
+              "ToolTip": "C:\\Users\\genec\\source\\repos\\Lab1\\Lab1\\Encapsulamiento\\Empleado.cs",
+              "RelativeToolTip": "Lab1\\Encapsulamiento\\Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:01:44.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\genec\\source\\repos\\Lab1\\Lab1\\Encapsulamiento\\Persona.cs",
+              "RelativeDocumentMoniker": "Lab1\\Encapsulamiento\\Persona.cs",
+              "ToolTip": "C:\\Users\\genec\\source\\repos\\Lab1\\Lab1\\Encapsulamiento\\Persona.cs",
+              "RelativeToolTip": "Lab1\\Encapsulamiento\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:01:33.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Perro.cs",
+              "DocumentMoniker": "C:\\Users\\genec\\source\\repos\\Lab1\\Lab1\\Herencia\\Perro.cs",
+              "RelativeDocumentMoniker": "Lab1\\Herencia\\Perro.cs",
+              "ToolTip": "C:\\Users\\genec\\source\\repos\\Lab1\\Lab1\\Herencia\\Perro.cs",
+              "RelativeToolTip": "Lab1\\Herencia\\Perro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T14:49:32.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\genec\\source\\repos\\Lab1\\Lab1\\Herencia\\Animal.cs",
+              "RelativeDocumentMoniker": "Lab1\\Herencia\\Animal.cs",
+              "ToolTip": "C:\\Users\\genec\\source\\repos\\Lab1\\Lab1\\Herencia\\Animal.cs",
+              "RelativeToolTip": "Lab1\\Herencia\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T14:49:05.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFigura.cs",
+              "DocumentMoniker": "C:\\Users\\genec\\source\\repos\\Lab1\\Lab1\\Polimorfismo\\IFigura.cs",
+              "RelativeDocumentMoniker": "Lab1\\Polimorfismo\\IFigura.cs",
+              "ToolTip": "C:\\Users\\genec\\source\\repos\\Lab1\\Lab1\\Polimorfismo\\IFigura.cs",
+              "RelativeToolTip": "Lab1\\Polimorfismo\\IFigura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T14:41:20.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\genec\\source\\repos\\Lab1\\Lab1\\Polimorfismo\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Lab1\\Polimorfismo\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\genec\\source\\repos\\Lab1\\Lab1\\Polimorfismo\\Triangulo.cs",
+              "RelativeToolTip": "Lab1\\Polimorfismo\\Triangulo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T14:27:31.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cuadrado.cs",
+              "DocumentMoniker": "C:\\Users\\genec\\source\\repos\\Lab1\\Lab1\\Polimorfismo\\Cuadrado.cs",
+              "RelativeDocumentMoniker": "Lab1\\Polimorfismo\\Cuadrado.cs",
+              "ToolTip": "C:\\Users\\genec\\source\\repos\\Lab1\\Lab1\\Polimorfismo\\Cuadrado.cs",
+              "RelativeToolTip": "Lab1\\Polimorfismo\\Cuadrado.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T14:27:17.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Figura.cs",
+              "DocumentMoniker": "C:\\Users\\genec\\source\\repos\\Lab1\\Lab1\\Polimorfismo\\Figura.cs",
+              "RelativeDocumentMoniker": "Lab1\\Polimorfismo\\Figura.cs",
+              "ToolTip": "C:\\Users\\genec\\source\\repos\\Lab1\\Lab1\\Polimorfismo\\Figura.cs",
+              "RelativeToolTip": "Lab1\\Polimorfismo\\Figura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T14:27:05.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\genec\\source\\repos\\Lab1\\Lab1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab1\\Program.cs",
+              "ToolTip": "C:\\Users\\genec\\source\\repos\\Lab1\\Lab1\\Program.cs",
+              "RelativeToolTip": "Lab1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T14:12:43.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
